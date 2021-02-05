@@ -4,7 +4,7 @@ const zeusmenu = (prefix) => {
             COMANDOS:
 
 
-  *Comandos da Laurah:*
+  *Comandos da Sasha:*
 
 ➸ *${prefix}loli*
 ➸ *${prefix}hentai*
