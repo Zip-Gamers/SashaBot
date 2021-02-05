@@ -70,7 +70,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Olá @${num.split('@')[0]}\nBem Vindo a família Máfia Alemã 🇩🇪🔥*${mdata.subject}*\nTAG OBRIGATÓRIA! 🇩🇪🔥`
+				teks = `Olá @${num.split('@')[0]}\nBem Vindo aos LOS BANDOLEIROS *${mdata.subject}*\se divirta bro`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
@@ -80,7 +80,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `ADEUS 🇩🇪🔥 @${num.split('@')[0]} -1 Random no grupo ✌️🙄`
+				teks = `ADEUS CABEÇA DE BATATA @${num.split('@')[0]} -1 Retardado no grupo 👌😎`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -118,8 +118,8 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛ Comendo sua mãe, aguade... ⌛',
-				success: '✔️ Deu certo, ufa kk ✔️',
+				wait: '⌛ Comendo sua mãe enquanto eu uso sua roupa e faço sua figurinha, aguarde... ⌛',
+				success: '✔️ Deu certo, ufa kk, agora é ir comprar cigarro né parça ✔️',
 				error: {
 					stick: '⚠️ Falha, ocorreu um erro ao converter a imagem em figurinha ⚠️',
 					Iv: '❌ Link tidak valid ❌'
@@ -134,7 +134,7 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["556993899391@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["559499807516@s.whatsapp.net"] // replace this with your number
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -358,27 +358,27 @@ async function starts() {
 				case 'loli1':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/iphQUGi.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'hmm safado, então quer ver loli?'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'doente mental tu és, então querieres ver loli?'})
 					break
 				case 'hentai':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/8U9GwX4.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ih ala, o cara bate pra 2d 😂'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ih alakkkkk, o cara bate pra 2d 😂'})
 					break
 				case 'bomdia':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/7VL9cFf.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Bom dia, vcs sao fodas ❤️'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Bom dia, vcs sao pika das galaxias ❤️'})
 					break
 				case 'boatarde':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/JaO3yoV.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Boa tarde, rapeize 😎👍'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Boa tarde, galera 😎👍'})
 					break
 				case 'boanoite':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/yOFxSUR.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Boa noite fml ❤️'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Boa noite guys ❤️'})
 					break
 				case 'belle':
 					memein = await kagApi.memeindo()
