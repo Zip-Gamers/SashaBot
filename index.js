@@ -118,8 +118,8 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛ Comendo sua mãe enquanto eu uso sua roupa e faço sua figurinha, aguarde... ⌛',
-				success: '✔️ Deu certo, ufa kk, agora é ir comprar cigarro né parça ✔️',
+				wait: '⌛ Comendo batata enquanto eu faço oq vc pediu, aguarde... ⌛',
+				success: '✔️ Deu certo, ufa kk ✔️',
 				error: {
 					stick: '⚠️ Falha, ocorreu um erro ao converter a imagem em figurinha ⚠️',
 					Iv: '❌ Link tidak valid ❌'
