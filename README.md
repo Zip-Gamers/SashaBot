@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: LZKMAKKER FIH KKK, MAS PERSONALIZADO POR MIMKKK
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> RELAXA AI BRO E CURTE O BOT MANO
 <p align="center">
 <img src="https://media.giphy.com/media/l0Iy6cMi1aPIBzP32/giphy.gif" width="230" height="230"/>
 </p>
@@ -9,21 +9,20 @@
 </details>
 
 ### ATENÇÃO
-DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFORMAÇÃO !!!
+Pode pegar o script alias é de graça 
 
 ## NOTA:>
-NÃO VENDE / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO TERMUX
+Não pegue o script e venda ele, é de graça para pessoas que usam termux
 </div>
 
 ### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare as ferramentas e materiais.
 `` `bash
-> 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
+> 2 telefones celulares (1 para executar o Script, 1 para ler o código QR sis)
 > rede de internet rápida, cota +
 > armazenamento adequado
 > aplicativo whatsapp
-> aplicativo termux
-> café + cigarros KKKK;-;
+> aplicativo termux, que pode ser encontrado na Play Store
 ```
 INSTALAÇÃO:
 
